@@ -1,4 +1,4 @@
-# Trading Sentiment Analysis — README
+# Trading Sentiment Analysis
 
 ## Overview
 
