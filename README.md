@@ -10,7 +10,6 @@ This project analyzes the relationship between Bitcoin market sentiment (Fear & 
 
 ```bash
 git clone <your-repo-url>
-cd <repo-folder>
 ```
 
 ### 2. Install dependencies
@@ -35,7 +34,7 @@ Ensure column names match expected formats or adjust parsing logic in the notebo
 You can run the analysis in Jupyter or Google Colab:
 
 ```bash
-jupyter notebook trading_sentiment_analysis.ipynb
+jupyter notebook Assignment.ipynb
 ```
 
 Or upload the notebook to [Google Colab](https://colab.research.google.com/) and run all cells.
@@ -60,7 +59,3 @@ The notebook produces:
 - **Customization:** Adjust feature engineering and clustering parameters to suit your strategy focus.
 
 ---
-
-**Author:** [Your Name]\
-**License:** MIT
-
